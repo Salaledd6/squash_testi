@@ -5,4 +5,4 @@ print("Lisää koodia")
 
 print("Tehtäväkoodit lisättiin tähän")
 
-print("lisää koodia tehtävn #1")
+print("lisää koodia tehtävään #1")
